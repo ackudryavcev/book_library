@@ -12,4 +12,4 @@ Simple structure - only the root directory.
 
 ## Install
 
-You can also download the folder with the code to your computer, extract it and run the server.js using NodeJS. The you can send request by Postman.
+You can also download the folder with the code to your computer, extract it and run the server.js using NodeJS. Then you can send request by Postman.
